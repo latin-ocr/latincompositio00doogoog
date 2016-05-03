@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./latincompositio00doogoog/latincompositio00doogoog_0011.png"; bbox 0 0 2737 4316; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1058 1756 1521 1846">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1058 1756 1521 1846">
+     <span class='ocr_line' id='line_1_1' title="bbox 1058 1756 1521 1846; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1058 1756 1410 1846; x_wconf 88' lang='lat' dir='ltr'><strong>PART</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1479 1758 1521 1845; x_wconf 94' lang='lat' dir='ltr'>I</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 445 2013 2122 2221">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 445 2013 2122 2221">
+     <span class='ocr_line' id='line_1_2' title="bbox 445 2013 2122 2079; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 445 2013 766 2078; x_wconf 86' lang='lat' dir='ltr'><strong>BASED</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 819 2015 953 2079; x_wconf 90' lang='grc' dir='ltr'><strong>ΟΝ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1010 2014 1432 2079; x_wconf 88' lang='lat' dir='ltr'>CAESAR&#39;S</span> <span class='ocrx_word' id='word_1_6' title='bbox 1490 2014 1849 2079; x_wconf 92' lang='lat' dir='ltr'>GALLIC</span> <span class='ocrx_word' id='word_1_7' title='bbox 1903 2013 2122 2078; x_wconf 91' lang='lat' dir='ltr'><strong>WAR</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1012 2156 1571 2221; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1012 2156 1330 2221; x_wconf 88' lang='lat' dir='ltr'>BOOKS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1388 2157 1571 2220; x_wconf 92' lang='lat' dir='ltr'>I-IV</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
